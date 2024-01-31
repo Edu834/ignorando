@@ -1,0 +1,7 @@
+
+bin/*
+.idea
+config.json
+libs/**/node_modules
+libs/stringparser/*.class
+src/**/*.class
